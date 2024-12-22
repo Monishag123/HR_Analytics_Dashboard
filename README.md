@@ -16,8 +16,9 @@ This Dashboard has various sections :
 4. Talent Aquisition
 5. Learning & Development
    
-<img width="598" alt="HR_5" src="https://github.com/user-attachments/assets/d27bcb4f-ec91-4737-bd75-f772f3b0e8d4" />
-<img width="659" alt="HR_4" src="https://github.com/user-attachments/assets/cd42973a-d517-4e50-b933-cad2cf958a39" />
-<img width="594" alt="HR_3" src="https://github.com/user-attachments/assets/a54bb97f-b2c0-4f7a-b55e-bbf57a492b6a" />
-<img width="937" alt="HR_2" src="https://github.com/user-attachments/assets/828d7d33-0b74-4823-8769-e7a72f4f4374" />
-<img width="951" alt="HR_1" src="https://github.com/user-attachments/assets/39e68432-fc91-467b-b0a8-8e9ce6f7b3cb" />
+<img width="951" alt="HR_1" src="https://github.com/user-attachments/assets/f8f4ef88-c794-4974-9cb5-3ba6c1e5736f" />
+<img width="937" alt="HR_2" src="https://github.com/user-attachments/assets/be0d46ad-58f1-4e13-9166-0393238a7eb6" />
+<img width="594" alt="HR_3" src="https://github.com/user-attachments/assets/b404539c-a08a-4040-ba35-6caf6beb842f" />
+<img width="659" alt="HR_4" src="https://github.com/user-attachments/assets/a7dc3682-b480-43f0-a7f7-977fd029e81f" />
+<img width="598" alt="HR_5" src="https://github.com/user-attachments/assets/fe70c9f3-6e89-46d8-b006-f65a832b47a5" />
+
